@@ -23,6 +23,6 @@ The scatter plot shows actual data points, and the straight line represents the 
    
    pip install -m requirements.txt
 
-3.Run the program   
+ 3.Run the program   
 
 
