@@ -15,6 +15,7 @@ This project predicts house prices based on house size (in square feet) using Si
 
 ## 📈 Output Graph
 The scatter plot shows actual data points, and the straight line represents the regression line.
+[House Price Prediction Graph](output_graph.png)
 
 
 ## ▶ How to Run
